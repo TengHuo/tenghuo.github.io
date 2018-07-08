@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /2014/
+Allow: /2015/
+Allow: /2016/
+Allow: /2017/
+Allow: /about/
+Allow: /history/
+Allow: /timeline/
+Allow: /page/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Disallow: /js/
+Disallow: /css/
