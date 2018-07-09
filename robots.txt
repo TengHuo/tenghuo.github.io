@@ -10,6 +10,4 @@ Allow: /timeline/
 Allow: /page/
 Allow: /archives/
 Allow: /categories/
-Allow: /tags/ 
-Disallow: /js/
-Disallow: /css/
+Allow: /tags/
